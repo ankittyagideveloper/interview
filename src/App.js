@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Daily Learnings
+          mY Daily Learnings
         </a>
       </header>
     </div>
